@@ -1,6 +1,6 @@
 # Git Basics Lab
 
-## Learning Goals  ggggggggggggggggggggggggggg
+## Learning Goals  gggggggggggggggggggggggggggygit push
 
 - Understand how to complete assignments
 - Apply what you've learned about Git version control
